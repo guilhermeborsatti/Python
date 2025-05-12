@@ -1,3 +1,3 @@
 # Python
-Estagio_FabricaDeSoftware
-fgdwfge
+python -m venv venv
+pip istall sleneium
