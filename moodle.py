@@ -2,8 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-usuario = "guilhermeb"
-senha = "Gui@140308"
+usuario = "#usuario"
+senha = "senha#"
 
 driver = webdriver.Chrome()
 driver.maximize_window()
