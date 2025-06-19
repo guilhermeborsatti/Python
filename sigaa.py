@@ -6,8 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 
-usuario = "guilhermeb"
-senha = "Gui@140308"
+usuario = "#usuario"
+senha = "senha#"
 
 
 driver = webdriver.Chrome()
